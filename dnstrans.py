@@ -1,3 +1,6 @@
+# function to find NS and attempt zone transfer
+# original: https://gist.github.com/gothburz/f9805f0b10637e69dcb887d3292abee3
+
 import dns.zone
 import dns.resolver
 import argparse
